@@ -7,7 +7,7 @@ Los PIR están hechos básicamente de un  sensor piroeléctrico  (que puedes ver
 </p1>  
 
 <img src="sensorNTC.jpg" alt="SensorNTC" width="500" height="600">
-<img src="TablePIR.png" alt="TablaPIR" width="500" height="600">
+<img src="TablePIR.jpg" alt="TablaPIR" width="500" height="600">
 
 <h2>PIR Motion Sensor</h2>
 <p1>
