@@ -19,4 +19,4 @@ Sin embargo, una resistencia fija siempre provoca una pérdida de potencia y una
    </p1>
 
 <img src="sensorNTC.jpg" alt="sensorNTC" width="500" height="600">
-<img src="TableNTC.jpg" alt="TableNTC" width="500" height="600">
+<img src="TableNTC.jpg" alt="TableNTC" width="400" height="400">
