@@ -19,7 +19,6 @@ Los PIR están hechos básicamente de un  sensor piroeléctrico  (que puedes ver
 |  Supply Voltage Range  | 2V TO 15 V  |
 | Storage Temperature Range  | -40 C to 85 C  |
 
-<img src="TablePIR.jpg" alt="TablaPIR" width="350" height="300">
 
 ### Analog Temperature Sensor (NTC)
 <p1>
@@ -31,4 +30,13 @@ Sin embargo, una resistencia fija siempre provoca una pérdida de potencia y una
    </p1>
 
 <img src="sensorNTC.jpg" alt="sensorNTC" width="500" height="600">
+
+| Especificaciones  |   |
+|---|---|
+| Voltaje de funcionamiento  | 5V  |
+| Rango de medicion de temperatura  | -55 C a 125 C  |
+| Presicion de la medicion  |  +/- .5 C |
+| Dimensiones  | 22mm x 15mm x 9mm  |
+| Peso  | 1g  |
+
 <img src="TableNTC.jpg" alt="TableNTC" width="400" height="400">
