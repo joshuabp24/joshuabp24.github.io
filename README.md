@@ -7,6 +7,16 @@ Los PIR están hechos básicamente de un  sensor piroeléctrico  (que puedes ver
 </p1>  
 
 <img src="Motion.jpg" alt="Motion" width="500" height="600">
+|  Especificaciones |   |
+|---|---|
+| Operatig temperature range  | -40 C to 70 C  |
+|  Shape | Lead  |
+|  Field of View |  theta1=theta2=45deg |
+| Electrode  | (2.0x1.0mm)x2  |
+| Responsivity(typ.)  | 4.6mV  |
+| Optical Filter  |  5micro meter Long Pass  |
+|  Supply Voltage Range  | 2V TO 15 V  |
+| Storage Temperature Range  | -40 C to 85 C  |
 <img src="TablePIR.jpg" alt="TablaPIR" width="350" height="300">
 
 ### Analog Temperature Sensor (NTC)
