@@ -1,4 +1,4 @@
-<img src="text.png" alt="Motion" width="500" height="600">
+<img src="text.png" alt="Motion" >
 
 ### PIR Motion Sensor
 <p1>
