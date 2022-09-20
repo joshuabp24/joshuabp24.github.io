@@ -39,4 +39,4 @@ Sin embargo, una resistencia fija siempre provoca una pérdida de potencia y una
 | Dimensiones  | 22mm x 15mm x 9mm  |
 | Peso  | 1g  |
 
-<img src="TableNTC.jpg" alt="TableNTC" width="400" height="400">
+
