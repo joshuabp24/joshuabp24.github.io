@@ -10,8 +10,7 @@ Los PIR están hechos básicamente de un  sensor piroeléctrico, que puede detec
 
 |  Especificaciones |   |
 |---|---|
-| Operatig temperature range  | -40 C to 70 C  |
-|  Shape | Lead  |
+| Operating temperature range  | -40 C to 70 C  |
 |  Field of View |  theta1=theta2=45deg |
 | Electrode  | (2.0x1.0mm)x2  |
 | Responsivity(typ.)  | 4.6mV  |
