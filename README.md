@@ -1,5 +1,5 @@
 
-###PIR Motion Sensor
+### PIR Motion Sensor
 <p1>
 Los sensores PIR le permiten detectar movimiento, casi siempre se usan para detectar si un humano se ha movido dentro o fuera del alcance de los sensores. Son pequeños, económicos, de bajo consumo, fáciles de usar y no se desgastan. Por esa razón, se encuentran comúnmente en electrodomésticos y aparatos que se usan en los hogares o negocios. A menudo se los conoce como sensores PIR, "infrarrojos pasivos", "piroeléctricos" o "de movimiento IR".
 
@@ -9,7 +9,7 @@ Los PIR están hechos básicamente de un  sensor piroeléctrico  (que puedes ver
 <img src="Motion.jpg" alt="Motion" width="500" height="600">
 <img src="TablePIR.jpg" alt="TablaPIR" width="350" height="300">
 
-###Analog Temperature Sensor (NTC)
+### Analog Temperature Sensor (NTC)
 <p1>
       Un termistor NTC es un sensor de temperatura que utiliza las propiedades de resistencia de los compuestos de cerámica/metal para medir la temperatura.
 Los termistores NTC son resistencias dependientes de la temperatura que emplean cerámicas semiconductoras especiales con un coeficiente de temperatura negativo (NTC). Tienen una alta resistencia a temperatura ambiente, y cuando están energizados, generan calor por sí mismos y la resistencia disminuye a medida que aumenta su temperatura. Con esta propiedad, se utilizan como dispositivos de protección de corriente para dispositivos eléctricos y electrónicos que limitan de manera fácil y efectiva las corrientes anormales, incluida una corriente de irrupción en el momento del encendido. Los termistores NTC utilizados como dispositivos de protección de corriente también se denominan termistores de potencia.
